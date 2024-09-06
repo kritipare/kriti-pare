@@ -1,4 +1,5 @@
 import Banner from "./components/Banner";
+import Aboutme from "./components/AboutMe";
 import './App.css'
 
 function App() {
@@ -6,7 +7,7 @@ function App() {
     <div className="w-full bg-gray-950 text-gray-300 px-4">
       <div className="max-w-screen-xl mx-auto lg:pt-10">
         <Banner />
-        {/* <Aboutme /> */}
+        <Aboutme />
         {/* <Experience /> */}
         {/* <Skills /> */}
         {/* <Projects /> */}
