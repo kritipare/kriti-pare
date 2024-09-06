@@ -1,4 +1,3 @@
-import ProfileImg from "../public/img/profileImg.jpg";
 
 const Banner = () => {
   return (
@@ -6,8 +5,8 @@ const Banner = () => {
       {/* Image */}
       <div className="w-44 h-44 rounded-full bg-black">
         <img
-          className="w-full h-full rounded-full border-[1px] border-indigo-700 p-2 object-cover"
-          src="https://raw.githubusercontent.com/noorjsdivs/portfoliofouryt/master/public/img/profileImg.jpg"
+          className="w-96 h-96 rounded-full border-[1px] border-indigo-700 p-2 object-cover"
+          src="https://i.pinimg.com/736x/b5/d7/81/b5d7812e4e68e6a6fa7a5156399c918e.jpg"
           alt="ProfileImg"
         />
       </div>
