@@ -1,7 +1,7 @@
 
 const Banner = () => {
   return (
-    <div className="w-8/12 wrapper flex flex-col md:flex-row items-center gap-10">
+    <div className="lg:w-8/12 wrapper flex flex-col md:flex-row items-center gap-10">
       {/* Image */}
       <div className="w-44 h-44 rounded-full bg-black">
         <img
