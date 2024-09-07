@@ -49,6 +49,7 @@
 @layer components {
   .wrapper {
     @apply border-b-[1px] border-b-slate-700 py-20;
+    @apply px-6 py-6
   }
 }
 
